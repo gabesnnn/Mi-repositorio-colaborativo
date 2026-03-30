@@ -3,4 +3,6 @@
 Editando desde GitHub
 
 
+Cambio realizado en local
+
 Cambio realizado en GitHub en la nube (rama main)
